@@ -1,9 +1,15 @@
 import React from "react";
+import Common from "./Common";
+import img from './Images/home.svg'
 
 const About = () => {
   return (
     <>
-      <h1>Welcome About Page</h1>
+      <Common 
+        name="Welcome to About page"
+        imgsrc={img}
+        visit="/contact"
+        btnname="Contact Now"/>
     </>
   );
 };
