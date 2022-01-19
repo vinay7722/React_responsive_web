@@ -14,6 +14,9 @@ code {
 
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,800&display=swap');
 
+
+$brand-clr: #3987bb; 
+
 *{
   margin:0;
   padding: 0;
@@ -23,31 +26,33 @@ code {
 
 .navbar{
   background-color: #fff !important;
+
+  .navbar-brand{
+    font-size: 1.9rem !important;
+    color: $brand-clr !important;
+  }
+  
+  .brand-name{
+    font-size: 2.1rem !important;
+    color: $brand-clr !important;
+    font-weight: bold;
+  }
+  
+  .navbar a{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+  }
+  
+  .menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid #261ec9;
+  }
+  .navbar a:hover{
+    color: #261ec9;
+  }
 }
 
-.navbar-brand{
-  font-size: 1.9rem !important;
-  color: #3987bb !important;
-}
 
-.brand-name{
-  font-size: 2.1rem !important;
-  color: #3987bb !important;
-  font-weight: bold;
-}
-
-.navbar a{
-  font-size: 1.3rem;
-  text-transform: capitalize;
-}
-
-.menu_active{
-  font-weight: bold;
-  border-bottom: 1px solid #261ec9;
-}
-.navbar a:hover{
-  color: #261ec9;
-}
 
 @media (max-width: 991px){
   .navbar-brand{

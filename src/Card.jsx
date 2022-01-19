@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import img from "../src/Images/image1.jpg";
-import './index.css'
+import './index.scss'
 
 const Card = (props) => {
     return (
