@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_responsive_web.git/static/css/main.a56d511f.css",
+    "main.js": "/React_responsive_web.git/static/js/main.c084465c.js",
+    "static/media/image1.jpg": "/React_responsive_web.git/static/media/image1.5fa0db547d70aaccd6dc.jpg",
+    "static/media/android.jpg": "/React_responsive_web.git/static/media/android.cd3cdf8d40a11de5cd01.jpg",
+    "static/media/web.jpg": "/React_responsive_web.git/static/media/web.7e96a32a8216cc9d5e74.jpg",
+    "static/media/app.jpg": "/React_responsive_web.git/static/media/app.2aaec670f731d51d1bf4.jpg",
+    "static/media/software.jpg": "/React_responsive_web.git/static/media/software.db45056e316097f8d6c7.jpg",
+    "static/media/digital.jpg": "/React_responsive_web.git/static/media/digital.fc9e9d0c5bb224e0cb87.jpg",
+    "static/media/home.svg": "/React_responsive_web.git/static/media/home.a63b343b2e6573f6cc48a348b3e02f61.svg",
+    "static/media/marketing.jpg": "/React_responsive_web.git/static/media/marketing.34fbd94ce6696ba56660.jpg",
+    "index.html": "/React_responsive_web.git/index.html",
+    "main.a56d511f.css.map": "/React_responsive_web.git/static/css/main.a56d511f.css.map",
+    "main.c084465c.js.map": "/React_responsive_web.git/static/js/main.c084465c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56d511f.css",
+    "static/js/main.c084465c.js"
+  ]
+}
